@@ -20,8 +20,8 @@ public class RestServer {
 	{
 		
 		Student student =new Student();
-		student.setFirstName("John");
-		student.setLastName("Kerry");
+		student.setFirstName("ramu");
+		student.setLastName("Pandu");
 		student.setSchool("Standford");
 		student.setStandard("ONE");
 		student.setRollNumber(222);
